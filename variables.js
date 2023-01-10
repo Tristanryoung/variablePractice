@@ -6,6 +6,7 @@ var rentPaid = true
 var bedmade = false
 email = "try979@gmail.com"
 username = "codermanstan"
+age = 99
 console.log(email)
 console.log(username)
 console.log(age)
